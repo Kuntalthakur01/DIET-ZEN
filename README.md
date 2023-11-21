@@ -1,5 +1,13 @@
 # Diet-Zen - Diet Plan Maker 🍊
 
+# DEMO: 
+
+
+
+https://github.com/Kuntalthakur01/DIET-ZEN/assets/80209678/9afc15a5-e090-4db2-a38a-365e35adee67
+
+
+
 This is a part of our SEM 4 Mini Project for Second Year Engineering and is purely team work 🤝!
 
 ## Problem Statement:
